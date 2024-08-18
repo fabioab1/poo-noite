@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\fabio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RevisaoCsharp\\RevisaoCsharp.csproj",
+      "projectUniqueName": "E:\\POO noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
       "projectName": "RevisaoCsharp",
-      "projectPath": "D:\\RevisaoCsharp\\RevisaoCsharp.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\RevisaoCsharp\\obj\\",
+      "projectPath": "E:\\POO noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
+      "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+      "outputPath": "E:\\POO noite\\RevisaoCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
