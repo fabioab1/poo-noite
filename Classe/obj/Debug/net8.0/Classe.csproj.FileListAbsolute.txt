@@ -1,0 +1,15 @@
+E:\POO noite\Classe\bin\Debug\net8.0\Classe.exe
+E:\POO noite\Classe\bin\Debug\net8.0\Classe.deps.json
+E:\POO noite\Classe\bin\Debug\net8.0\Classe.runtimeconfig.json
+E:\POO noite\Classe\bin\Debug\net8.0\Classe.dll
+E:\POO noite\Classe\bin\Debug\net8.0\Classe.pdb
+E:\POO noite\Classe\obj\Debug\net8.0\Classe.GeneratedMSBuildEditorConfig.editorconfig
+E:\POO noite\Classe\obj\Debug\net8.0\Classe.AssemblyInfoInputs.cache
+E:\POO noite\Classe\obj\Debug\net8.0\Classe.AssemblyInfo.cs
+E:\POO noite\Classe\obj\Debug\net8.0\Classe.csproj.CoreCompileInputs.cache
+E:\POO noite\Classe\obj\Debug\net8.0\Classe.sourcelink.json
+E:\POO noite\Classe\obj\Debug\net8.0\Classe.dll
+E:\POO noite\Classe\obj\Debug\net8.0\refint\Classe.dll
+E:\POO noite\Classe\obj\Debug\net8.0\Classe.pdb
+E:\POO noite\Classe\obj\Debug\net8.0\Classe.genruntimeconfig.cache
+E:\POO noite\Classe\obj\Debug\net8.0\ref\Classe.dll
