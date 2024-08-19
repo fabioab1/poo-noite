@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fabio\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\POO noite\\Classe\\Classe.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\poo-noite\\Classe\\Classe.csproj",
       "projectName": "Classe",
-      "projectPath": "E:\\POO noite\\Classe\\Classe.csproj",
-      "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\POO noite\\Classe\\obj\\",
+      "projectPath": "C:\\Users\\aluno\\Documents\\poo-noite\\Classe\\Classe.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\poo-noite\\Classe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

@@ -26,3 +26,9 @@ c3.titular = Console.ReadLine();
 System.Console.WriteLine("Insira o saldo existente na conta: ");
 c3.saldo = Convert.ToDouble(Console.ReadLine());
 System.Console.WriteLine($"Número da conta: {c3.numero}\nTitular: {c3.titular}\nSaldo: {c3.saldo}");
+
+Funcionario f1 = new Funcionario();
+f1.codigo = 1;
+f1.nome = "Fábio";
+f1.salario = 2000;
+f1.MostrarInfos();
