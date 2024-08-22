@@ -26,7 +26,15 @@ namespace Classe
             System.Console.WriteLine($"Foi depositado R$ {valor} na conta.");
         }
         
-
-
+        public void Transferir(Conta conta, double valor)
+        {
+            if (valor <= this.saldo)
+            {
+                this.saldo -= valor;
+                conta.saldo += valor;
+            }
+            else
+                System.Console.WriteLine("Saldo insuficiente.");
+        }
     }
 }

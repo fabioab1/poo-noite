@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj": {}
+    "D:\\Fatec\\ILP007\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj": {
+    "D:\\Fatec\\ILP007\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
+        "projectUniqueName": "D:\\Fatec\\ILP007\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
         "projectName": "ClasseFuncionario",
-        "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
-        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\ClasseFuncionario\\obj\\",
+        "projectPath": "D:\\Fatec\\ILP007\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
+        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+        "outputPath": "D:\\Fatec\\ILP007\\poo-noite\\ClasseFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

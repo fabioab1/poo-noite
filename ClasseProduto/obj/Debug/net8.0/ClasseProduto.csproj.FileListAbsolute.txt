@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.sourcelink.json
+D:\Fatec\ILP007\poo-noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.exe
+D:\Fatec\ILP007\poo-noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.deps.json
+D:\Fatec\ILP007\poo-noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.dll
+D:\Fatec\ILP007\poo-noite\ClasseProduto\bin\Debug\net8.0\ClasseProduto.pdb
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.dll
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\refint\ClasseProduto.dll
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.pdb
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ClasseProduto.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\ClasseProduto\obj\Debug\net8.0\ref\ClasseProduto.dll
