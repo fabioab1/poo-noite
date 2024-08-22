@@ -22,7 +22,7 @@ namespace ClasseProduto
         public void MostrarDados()
         {
             System.Console.WriteLine($"Nome: {nome}\n" + 
-            $"Preço: {preco}\n" + 
+            $"Preço: {preco:c}\n" + 
             $"Quantidade: {qntd}");
         }
 
