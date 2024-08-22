@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\POO noite\\RevisaoCsharp\\RevisaoCsharp.csproj": {}
+    "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\RevisaoCsharp\\RevisaoCsharp.csproj": {}
   },
   "projects": {
-    "E:\\POO noite\\RevisaoCsharp\\RevisaoCsharp.csproj": {
+    "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\RevisaoCsharp\\RevisaoCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\POO noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
         "projectName": "RevisaoCsharp",
-        "projectPath": "E:\\POO noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
+        "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "E:\\POO noite\\RevisaoCsharp\\obj\\",
+        "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\RevisaoCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"

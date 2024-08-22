@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\fabio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Documents\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
       "projectName": "ClasseFuncionario",
-      "projectPath": "C:\\Users\\aluno\\Documents\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Documents\\poo-noite\\ClasseFuncionario\\obj\\",
+      "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
+      "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\ClasseFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
