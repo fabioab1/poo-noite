@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\bin\Debug\net8.0\ArrayFuncionario.exe
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\bin\Debug\net8.0\ArrayFuncionario.deps.json
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\bin\Debug\net8.0\ArrayFuncionario.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\bin\Debug\net8.0\ArrayFuncionario.dll
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\bin\Debug\net8.0\ArrayFuncionario.pdb
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ArrayFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ArrayFuncionario.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ArrayFuncionario.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ArrayFuncionario.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ArrayFuncionario.sourcelink.json
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ArrayFuncionario.dll
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\refint\ArrayFuncionario.dll
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ArrayFuncionario.pdb
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ArrayFuncionario.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\ArrayFuncionario\obj\Debug\net8.0\ref\ArrayFuncionario.dll
