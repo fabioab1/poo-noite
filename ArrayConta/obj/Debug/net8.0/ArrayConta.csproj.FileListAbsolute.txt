@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\ArrayConta\bin\Debug\net8.0\ArrayConta.exe
+D:\Fatec\ILP007\poo-noite\ArrayConta\bin\Debug\net8.0\ArrayConta.deps.json
+D:\Fatec\ILP007\poo-noite\ArrayConta\bin\Debug\net8.0\ArrayConta.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\ArrayConta\bin\Debug\net8.0\ArrayConta.dll
+D:\Fatec\ILP007\poo-noite\ArrayConta\bin\Debug\net8.0\ArrayConta.pdb
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ArrayConta.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ArrayConta.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ArrayConta.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ArrayConta.sourcelink.json
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ArrayConta.dll
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\refint\ArrayConta.dll
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ArrayConta.pdb
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ArrayConta.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\ArrayConta\obj\Debug\net8.0\ref\ArrayConta.dll
