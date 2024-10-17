@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.sourcelink.json
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.exe
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.deps.json
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.dll
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.pdb
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.dll
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\refint\AbstratoFuncionario.dll
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.pdb
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\AbstratoFuncionario\obj\Debug\net8.0\ref\AbstratoFuncionario.dll
