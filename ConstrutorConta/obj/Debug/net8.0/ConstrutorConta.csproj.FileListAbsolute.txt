@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.sourcelink.json
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.exe
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.deps.json
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.dll
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.pdb
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.dll
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\refint\ConstrutorConta.dll
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.pdb
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\ConstrutorConta\obj\Debug\net8.0\ref\ConstrutorConta.dll

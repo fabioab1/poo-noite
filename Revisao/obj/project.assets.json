@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\Revisao\\Revisao.csproj",
+      "projectUniqueName": "E:\\Fatec\\ILP007\\poo-noite\\Revisao\\Revisao.csproj",
       "projectName": "Revisao",
-      "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\Revisao\\Revisao.csproj",
+      "projectPath": "E:\\Fatec\\ILP007\\poo-noite\\Revisao\\Revisao.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\Revisao\\obj\\",
+      "outputPath": "E:\\Fatec\\ILP007\\poo-noite\\Revisao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"

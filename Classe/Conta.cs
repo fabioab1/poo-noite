@@ -11,7 +11,7 @@ namespace Classe
         public string titular;
         public double saldo;
 
-        public void sacar(double valor)
+        public void Sacar(double valor)
         {
             if (valor <= saldo)
                 saldo -= valor;
@@ -20,7 +20,7 @@ namespace Classe
 
         }
 
-        public void depositar(double valor)
+        public void Depositar(double valor)
         {
             saldo += valor;
             System.Console.WriteLine($"Foi depositado R$ {valor} na conta.");

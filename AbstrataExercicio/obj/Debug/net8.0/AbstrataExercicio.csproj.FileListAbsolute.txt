@@ -1,0 +1,10 @@
+E:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.AssemblyInfoInputs.cache
+E:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.AssemblyInfo.cs
+E:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.csproj.CoreCompileInputs.cache
+E:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.sourcelink.json
+D:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\AbstrataExercicio\obj\Debug\net8.0\AbstrataExercicio.sourcelink.json

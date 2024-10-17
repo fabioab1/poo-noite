@@ -26,14 +26,14 @@ Console.WriteLine($"Soma total dos salários: {totalSalarios:c}");
 
 // Pesquise se há algum funcionário com 100 de salário,
 // informe se encontrou ou não
-
 bool encontrado = false;
 
 foreach (Funcionario f in vetFuncionarios)
 {
+    f.MostraAtributos();
     if (f.salario == 100)
     {
-        Console.WriteLine("Funcionário com 100 de salário encontrado." + f.nome);
+        Console.WriteLine("Funcionário com 100 de salário encontrado. " + f.nome);
         encontrado = true;
         break;
     }

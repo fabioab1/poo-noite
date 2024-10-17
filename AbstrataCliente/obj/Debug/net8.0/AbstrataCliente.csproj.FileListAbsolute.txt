@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.sourcelink.json
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.exe
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.deps.json
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.dll
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\bin\Debug\net8.0\AbstrataCliente.pdb
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.dll
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\refint\AbstrataCliente.dll
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.pdb
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\AbstrataCliente\obj\Debug\net8.0\ref\AbstrataCliente.dll

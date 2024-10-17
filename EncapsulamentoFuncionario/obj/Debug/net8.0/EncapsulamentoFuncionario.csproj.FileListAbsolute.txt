@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.sourcelink.json
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.exe
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.deps.json
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.dll
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.pdb
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.dll
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\refint\EncapsulamentoFuncionario.dll
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.pdb
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\EncapsulamentoFuncionario\obj\Debug\net8.0\ref\EncapsulamentoFuncionario.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fatec\\ILP007\\poo-noite\\Classe\\Classe.csproj": {}
+    "E:\\Fatec\\ILP007\\poo-noite\\Classe\\Classe.csproj": {}
   },
   "projects": {
-    "D:\\Fatec\\ILP007\\poo-noite\\Classe\\Classe.csproj": {
+    "E:\\Fatec\\ILP007\\poo-noite\\Classe\\Classe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fatec\\ILP007\\poo-noite\\Classe\\Classe.csproj",
+        "projectUniqueName": "E:\\Fatec\\ILP007\\poo-noite\\Classe\\Classe.csproj",
         "projectName": "Classe",
-        "projectPath": "D:\\Fatec\\ILP007\\poo-noite\\Classe\\Classe.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\Fatec\\ILP007\\poo-noite\\Classe\\obj\\",
+        "projectPath": "E:\\Fatec\\ILP007\\poo-noite\\Classe\\Classe.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "E:\\Fatec\\ILP007\\poo-noite\\Classe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

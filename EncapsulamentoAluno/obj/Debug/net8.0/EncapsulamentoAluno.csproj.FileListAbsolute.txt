@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.sourcelink.json
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.exe
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.deps.json
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.dll
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\bin\Debug\net8.0\EncapsulamentoAluno.pdb
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.dll
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\refint\EncapsulamentoAluno.dll
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.pdb
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\EncapsulamentoAluno.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\EncapsulamentoAluno\obj\Debug\net8.0\ref\EncapsulamentoAluno.dll

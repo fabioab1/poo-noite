@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.sourcelink.json
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.exe
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.deps.json
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.dll
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\bin\Debug\net8.0\ConstrutorProduto.pdb
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.dll
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\refint\ConstrutorProduto.dll
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.pdb
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ConstrutorProduto.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\ConstrutorProduto\obj\Debug\net8.0\ref\ConstrutorProduto.dll

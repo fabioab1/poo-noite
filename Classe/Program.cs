@@ -19,6 +19,8 @@ c2.saldo = 200;
 System.Console.WriteLine($"Número da conta: {c2.numero}\nTitular: {c2.titular}\nSaldo: {c2.saldo}");
 
 System.Console.WriteLine();
+
+c2.Transferir(c1, 50);
 /*
 Conta c3 = new Conta();
 System.Console.Write("Cadastre o número da conta: ");

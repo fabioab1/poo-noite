@@ -1,0 +1,15 @@
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.AssemblyInfoInputs.cache
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.AssemblyInfo.cs
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.csproj.CoreCompileInputs.cache
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.sourcelink.json
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.exe
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.deps.json
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.runtimeconfig.json
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.dll
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.pdb
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.dll
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\refint\AgregacaoContaArray.dll
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.pdb
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.genruntimeconfig.cache
+D:\Fatec\ILP007\poo-noite\AgregacaoContaArray\obj\Debug\net8.0\ref\AgregacaoContaArray.dll

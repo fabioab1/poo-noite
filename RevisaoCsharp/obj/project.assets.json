@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
+      "projectUniqueName": "E:\\Fatec\\ILP007\\poo-noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
       "projectName": "RevisaoCsharp",
-      "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
+      "projectPath": "E:\\Fatec\\ILP007\\poo-noite\\RevisaoCsharp\\RevisaoCsharp.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\poo-noite\\RevisaoCsharp\\obj\\",
+      "outputPath": "E:\\Fatec\\ILP007\\poo-noite\\RevisaoCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"

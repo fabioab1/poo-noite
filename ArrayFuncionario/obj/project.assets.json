@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\fabio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fatec\\ILP007\\poo-noite\\ArrayFuncionario\\ArrayFuncionario.csproj",
+      "projectUniqueName": "E:\\Fatec\\ILP007\\poo-noite\\ArrayFuncionario\\ArrayFuncionario.csproj",
       "projectName": "ArrayFuncionario",
-      "projectPath": "D:\\Fatec\\ILP007\\poo-noite\\ArrayFuncionario\\ArrayFuncionario.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\Fatec\\ILP007\\poo-noite\\ArrayFuncionario\\obj\\",
+      "projectPath": "E:\\Fatec\\ILP007\\poo-noite\\ArrayFuncionario\\ArrayFuncionario.csproj",
+      "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+      "outputPath": "E:\\Fatec\\ILP007\\poo-noite\\ArrayFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
